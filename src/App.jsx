@@ -15,9 +15,9 @@ function App() {
       <Header/> 
        <Menu/>
       <Routes>
-      <Route path="/productos" element={<ListaProductos />} />
-      <Route path="/registro" element={<Registro/>} />
-      <Route path="/login" element={<Login/>} />
+      <Route path="/productos" element={<ListaProductos/>}/>
+      <Route path="/registro" element={<Registro/>}/>
+      <Route path="/login" element={<Login/>}/>
       </Routes>
   </Router>
   <Footer/>

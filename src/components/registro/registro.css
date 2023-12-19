@@ -7,7 +7,7 @@
     font-family:sans-serif;
     font-weight: 600;
     text-align: center;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .input-field{
     display: block;
@@ -15,7 +15,8 @@
     padding: 1rem;
     width: 100vw;
     box-sizing: border-box;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
+    color: black;
 }
 .submit-button{
     background-color: red;
